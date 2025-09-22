@@ -1,16 +1,3 @@
-from turtledemo.rosette import mn_eck
-
-huilkk
-
-
-
-jinijlo
-kjjmj(''
-      'l'
-      '')
-mapm
-mn_eck(lam
-
-
-       km]\\\
-.;\imp
+123545-79
+787980
+789
