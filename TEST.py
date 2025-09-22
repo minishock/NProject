@@ -9,8 +9,8 @@ kjjmj(''
       'l'
       '')
 mapm
-mn_eck(lambda )
+mn_eck(lam
 
 
-       ,,p
-       ;.map
+       km]\\\
+.;\imp
